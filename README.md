@@ -1,6 +1,6 @@
 # Rental Platform Pakistan
 
-A verification-first rental marketplace for Pakistan where owners and renters can connect directly, without brokerage commission.
+Rent Asan is a verification-first rental marketplace for Pakistan where owners and renters can connect directly, without brokerage commission.
 
 ## Product goal
 
